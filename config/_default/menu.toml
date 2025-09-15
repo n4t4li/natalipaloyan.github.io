@@ -8,17 +8,27 @@
 #newtab = true
 
 [[social]]
+identifier = "email"
+name = "​Email"  # Copy and paste a zero-width space before "Email"
+url = "mailto:paloyannatali@gmail.com" 
+
+[social.params]
+icon = "email"
+
+
+[[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/n4t4li"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/natali-paloyan-50266b255/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "linkedin"
+
