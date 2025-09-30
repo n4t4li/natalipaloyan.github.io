@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaScript on NATALI PALOYAN</title><link>https://n4t4li.github.io/natalipaloyan.github.io/tags/javascript/</link><description>Recent content in JavaScript on NATALI PALOYAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://n4t4li.github.io/natalipaloyan.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>Mars Explorer App</title><link>https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/</guid><description>&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration1.PNG" alt="Featured image of post Mars Explorer App" /&gt;&lt;h2 id="project-overview"&gt;Project Overview
+&lt;/h2&gt;&lt;p&gt;As someone who has always been fascinated by astronomy and space exploration, I naturally gravitated towards creating a project that is related to our univers. The Mars Exploration Hub is an interactive web application that allows visitors to explore the Red Planet through the lens of NASA&amp;rsquo;s rover missions, I intended for it to be educational.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Live Demo:&lt;/strong&gt; &lt;a class="link" href="https://marsexplorationhub.vercel.app/" target="_blank" rel="noopener"
+&gt;marsxplorationhub.vercel.app&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="project-gallery"&gt;Project Gallery
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration1.PNG"
+width="1911"
+height="904"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration1_hu_14e9bb999d082b99.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration1_hu_7560246ce0006af4.PNG 1024w"
+loading="lazy"
+alt="Explore 3D map"
+class="gallery-image"
+data-flex-grow="211"
+data-flex-basis="507px"
+&gt;
+&lt;em&gt;Interactive 3D map of Mars using Cesium ion and information&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration2.PNG"
+width="1891"
+height="914"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration2_hu_cd834916fa1dd9fc.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration2_hu_34420dbb31ce1e2.PNG 1024w"
+loading="lazy"
+alt="A bit about the missions"
+class="gallery-image"
+data-flex-grow="206"
+data-flex-basis="496px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration3.PNG"
+width="1906"
+height="907"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration3_hu_a1f9261224357c95.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration3_hu_48e6c64c373fd6e2.PNG 1024w"
+loading="lazy"
+alt="Mars rover photos by mission"
+class="gallery-image"
+data-flex-grow="210"
+data-flex-basis="504px"
+&gt;
+&lt;em&gt;Main dashboard showing rover selection and recent photos&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration4.PNG"
+width="971"
+height="803"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration4_hu_64036267ea98af5c.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/mars-explorer-app/marsexploration4_hu_dcad64e560b618ec.PNG 1024w"
+loading="lazy"
+alt="Example of a rover picture"
+class="gallery-image"
+data-flex-grow="120"
+data-flex-basis="290px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://github.com/n4t4li/mars-gallery" target="_blank" rel="noopener"
+&gt;View Source on GitHub&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

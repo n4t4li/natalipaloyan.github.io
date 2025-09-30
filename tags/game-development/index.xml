@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Game Development on NATALI PALOYAN</title><link>https://n4t4li.github.io/natalipaloyan.github.io/tags/game-development/</link><description>Recent content in Game Development on NATALI PALOYAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://n4t4li.github.io/natalipaloyan.github.io/tags/game-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Typer Shark Game</title><link>https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/</link><pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate><guid>https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/</guid><description>&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/tutorialpage.png" alt="Featured image of post Typer Shark Game" /&gt;&lt;h2 id="project-overview"&gt;Project Overview
+&lt;/h2&gt;&lt;p&gt;Typer Shark is a fast-paced typing game where players must type words before time runs out. Built with JavaFX and the Ntro library, it features two main views: a tutorial page and a 2D canvas game interface with sharks moving toward a diver. The project includes comprehensive French translation functionality, making it accessible to both English and French-speaking users.&lt;/p&gt;
+&lt;h2 id="features-implemented"&gt;Features Implemented
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Start Game:&lt;/strong&gt; Initializes word list and countdown (1:00)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Validate Word:&lt;/strong&gt; +10 points for correct words, moves to next word&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skip Word:&lt;/strong&gt; Skip to next word but lose 10 seconds&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shuffle Words:&lt;/strong&gt; Randomize remaining word order&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pause/Resume:&lt;/strong&gt; Pause game without penalty&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lives System:&lt;/strong&gt; 3 lives initially, lost when timer reaches 0:00&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High Score:&lt;/strong&gt; Saves best score&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game implementation on 2D canvas:&lt;/strong&gt; Real-time animations with sharks moving toward diver and dynamic word interactions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilingual Support:&lt;/strong&gt; Full French translation of all UI elements and instructions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="project-gallery"&gt;Project Gallery
+&lt;/h2&gt;&lt;h3 id="tutorial-interface"&gt;Tutorial Interface
+&lt;/h3&gt;&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/tutorialpage.png"
+width="676"
+height="1014"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/tutorialpage_hu_f60ca87d290fc300.png 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/tutorialpage_hu_acd864ef83df8a54.png 1024w"
+loading="lazy"
+alt="Tutorial Page"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+&gt;&lt;br&gt;
+&lt;em&gt;Tutorial page with game controls and instructions&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id="game-canvas"&gt;Game Canvas
+&lt;/h3&gt;&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/typesharkcanvas.PNG"
+width="1895"
+height="1013"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/typesharkcanvas_hu_24d2c6e160da5af3.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/typer-shark-game/typesharkcanvas_hu_4947afe89e260d31.PNG 1024w"
+loading="lazy"
+alt="Game Canvas"
+class="gallery-image"
+data-flex-grow="187"
+data-flex-basis="448px"
+&gt;
+&lt;em&gt;2D canvas with sharks moving toward the diver&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id="game-demo-videos"&gt;Game Demo Videos
+&lt;/h3&gt;&lt;video controls width="100%"&gt;
+&lt;source src="tutorialpage.mp4" type="video/mp4"&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+*Tutorial page functionality demonstration*
+&lt;video controls width="100%"&gt;
+&lt;source src="canvasvideo.mp4" type="video/mp4"&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+*Gameplay showing sharks movement*
+&lt;h2 id="technical-details"&gt;Technical Details
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Platform:&lt;/strong&gt; Java with JavaFX&lt;br&gt;
+&lt;strong&gt;Graphics:&lt;/strong&gt; 2D Canvas for game animations&lt;br&gt;
+&lt;strong&gt;Architecture:&lt;/strong&gt; MVC pattern with message-based communication&lt;br&gt;
+&lt;strong&gt;Library:&lt;/strong&gt; Ntro framework for JavaFX applications&lt;br&gt;
+&lt;strong&gt;Localization:&lt;/strong&gt; Comprehensive bilingual support (English/French)&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://github.com/n4t4li/typer-shark" target="_blank" rel="noopener"
+&gt;View Source on GitHub&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
