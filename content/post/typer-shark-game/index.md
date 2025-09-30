@@ -60,4 +60,3 @@ Typer Shark is a fast-paced typing game where players must type words before tim
 **Library:** Ntro framework for JavaFX applications  
 **Localization:** Comprehensive bilingual support (English/French)
 
-[View Source on GitHub](https://github.com/n4t4li/typer-shark)
