@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mobile Development on NATALI PALOYAN</title><link>https://n4t4li.github.io/natalipaloyan.github.io/tags/mobile-development/</link><description>Recent content in Mobile Development on NATALI PALOYAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://n4t4li.github.io/natalipaloyan.github.io/tags/mobile-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Bilingual To-Do App</title><link>https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/</guid><description>&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/englishlighttheme.png" alt="Featured image of post Bilingual To-Do App" /&gt;&lt;h2 id="project-overview"&gt;Project Overview
+&lt;/h2&gt;&lt;p&gt;A modern Android to-do app built with Kotlin and Jetpack Compose. Features bilingual English/French support and light/dark theme switching.This Android to-do application represents my exploration into modern mobile development with Kotlin&lt;/p&gt;
+&lt;h2 id="project-gallery"&gt;Project Gallery
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/englishlighttheme.png"
+width="333"
+height="742"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/englishlighttheme_hu_7629b10639c2379a.png 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/englishlighttheme_hu_3b0d930611c41cb3.png 1024w"
+loading="lazy"
+alt="English Light Theme"
+class="gallery-image"
+data-flex-grow="44"
+data-flex-basis="107px"
+&gt;
+&lt;em&gt;English interface with light theme&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/frenchdarktheme.png"
+width="1080"
+height="2400"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/frenchdarktheme_hu_102e7332b3e1ee0.png 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/bilingual-to-do-app/frenchdarktheme_hu_cc917e3513a21a8b.png 1024w"
+loading="lazy"
+alt="French Dark Theme"
+class="gallery-image"
+data-flex-grow="45"
+data-flex-basis="108px"
+&gt;
+&lt;em&gt;French interface with dark theme&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://github.com/n4t4li/kotlin-todo-app" target="_blank" rel="noopener"
+&gt;View Source on GitHub&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

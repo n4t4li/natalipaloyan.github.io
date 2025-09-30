@@ -46,4 +46,50 @@ data-flex-grow="120"
 data-flex-basis="290px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="link" href="https://github.com/n4t4li/mars-gallery" target="_blank" rel="noopener"
-&gt;View Source on GitHub&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&gt;View Source on GitHub&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Gym Workout Tracker</title><link>https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/</link><pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate><guid>https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/</guid><description>&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/gymmainpage.PNG" alt="Featured image of post Gym Workout Tracker" /&gt;&lt;h2 id="project-overview"&gt;Project Overview
+&lt;/h2&gt;&lt;p&gt;This was my first major React project, developed collaboratively with a college classmate using the MERN stack (MongoDB, Express, React, Node.js).&lt;/p&gt;
+&lt;h2 id="features-implemented"&gt;Features Implemented
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;User Authentication:&lt;/strong&gt; Secure sign up and login system&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercise Database:&lt;/strong&gt; Browse exercises organized by muscle groups&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workout Creation:&lt;/strong&gt; Build custom fitness plans and routines&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Progress Tracking:&lt;/strong&gt; Monitor workout history and achievements&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Design:&lt;/strong&gt; Mobile-friendly interface for on-the-go tracking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="project-gallery"&gt;Project Gallery
+&lt;/h2&gt;&lt;h3 id="main-dashboard"&gt;Main Dashboard
+&lt;/h3&gt;&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/gymmainpage.PNG"
+width="1891"
+height="904"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/gymmainpage_hu_8859032ececb069c.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/gymmainpage_hu_f7e5b1cac8df03ea.PNG 1024w"
+loading="lazy"
+alt="Main Dashboard"
+class="gallery-image"
+data-flex-grow="209"
+data-flex-basis="502px"
+&gt;
+&lt;em&gt;Main interface for workout management&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id="exercise-library"&gt;Exercise Library
+&lt;/h3&gt;&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/gymgroupmuscle.PNG"
+width="1879"
+height="895"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/gymgroupmuscle_hu_22d25a7615a762e3.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/gymgroupmuscle_hu_152543187daa8a9.PNG 1024w"
+loading="lazy"
+alt="Exercise by Muscle Group"
+class="gallery-image"
+data-flex-grow="209"
+data-flex-basis="503px"
+&gt;
+&lt;em&gt;Browse exercises organized by specific muscle groups&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id="exercice-details"&gt;Exercice Details
+&lt;/h3&gt;&lt;p&gt;&lt;img src="https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/exercicegym.PNG"
+width="1445"
+height="857"
+srcset="https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/exercicegym_hu_619867845569f286.PNG 480w, https://n4t4li.github.io/natalipaloyan.github.io/p/gym-workout-tracker/exercicegym_hu_23624c88dbe86d51.PNG 1024w"
+loading="lazy"
+alt="Exercise"
+class="gallery-image"
+data-flex-grow="168"
+data-flex-basis="404px"
+&gt;
+&lt;em&gt;Interface for viewing the chosen muscle group&amp;rsquo;s details&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
